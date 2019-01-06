@@ -33,8 +33,7 @@ namespace Compito
             Console.WriteLine(Convert.ToString(number, 2));
             short number1 = (short)number;
             Console.WriteLine(number1);
-
-
+ 
             Console.ReadLine();
         }
     }
