@@ -11,7 +11,9 @@ namespace Compito
         static void Main(string[] args)
         {
             int a = int.MaxValue;
+            //a corrisponde al valore massimo che può essere inserito
             Console.WriteLine(a);
+            //si somma 1 ad "a" e si ottiene il valore minimo
             Console.WriteLine(a + 1);
             int b = 128;
             int c = -b;
