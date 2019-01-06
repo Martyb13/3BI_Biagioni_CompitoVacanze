@@ -28,6 +28,7 @@ namespace Compito
             short number1 = (short)number;
             Console.WriteLine(number1);
 
+
             Console.ReadLine();
         }
     }
