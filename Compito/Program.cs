@@ -30,6 +30,7 @@ namespace Compito
             //value = value + 1;
             somma = somma + value;
             Console.WriteLine($"la negazione del valore è {value} e la somma tra valor einserito e negazione è {somma}");
+            //Si converte il valore della variabile di tipo "long" in una nuova variabile di tipo "short"
             long number = 55555;
             Console.WriteLine(Convert.ToString(number, 2));
             short number1 = (short)number;
